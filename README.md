@@ -126,9 +126,8 @@ Each review dictionary has the following schema:
 
 ## Extended functionality (Changelog for AppScraper v 2.0)
 ----------------------------------------------------------------------------------------------
-
-
-- Scrape multiple apps. at the same time with the same ip. (In case, if the request gets blocked use VPN to switch IP)
+```
+- Scraped multiple apps. at the same time with the same ip. (In case, if the request gets blocked use VPN to switch IP)
 - Import the app id's (app. names from the CSV instead of inputing it as a parameter to the funtion)
 - Fetched reviews are produced as output - see file "OUTPUTFILEAPPS.txt"
 - Use list to upload all the app-names to the scraper function simultaneously.
@@ -139,6 +138,7 @@ appstore.py - code to run fetch multiple entries
 OUTPUTFILEAPPS.txt - scraped data as a list produced in the .txt file. 
 OUTPUTJSON.json - scraped data as output in the JSON file.(Each review is a seperate dictionary.)
 testnames.csv - Input the app names as new fields or rows in the CSV in the first column. 
+```
 
 OUTPUTJSON dict. for one review :
 --------------------------------- 
