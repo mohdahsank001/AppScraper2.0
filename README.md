@@ -34,7 +34,7 @@ pprint(sysk.reviews)
 pprint(sysk.reviews_count)
 ```
 
-# Extra Details
+# Variables and functions
 -------------------------
 
 Let's continue from the code example used in [Quickstart](#quickstart).
