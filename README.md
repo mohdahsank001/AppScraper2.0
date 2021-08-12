@@ -139,7 +139,7 @@ Each review dictionary has the following schema:
 - Fetched reviews are produced as output - see file "OUTPUTFILEAPPS.txt"
 - Use list to upload all the app-names to the scraper function simultaneously.
 
-- Open folder runfile in the root folder (Edit these files if required)  : 
+- Open folder "runfile" in the root folder (Edit these files if required)  : 
 
 appstore.py - code to run fetch multiple entries 
 OUTPUTFILEAPPS.txt - scraped data as a list produced in the .txt file. 
