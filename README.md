@@ -1,5 +1,5 @@
 
-AppScraper 2.0 
+AppScraper 2.0 with Automated scraping. 
 --------------------------------------------------------------
 <img src="https://github.com/mhdahsan2000/AppScraper2.0/blob/master/appimage.png" alt="My cool logo"/>
 
@@ -135,6 +135,7 @@ Each review dictionary has the following schema:
 ## Extended functionality (Changelog for AppScraper v 2.0)
 ----------------------------------------------------------------------------------------------
 ```
+- Automated Scraping. 
 - Scraped multiple apps. at the same time with the same ip. (In case, if the request gets blocked use VPN to switch IP)
 - Import the app id's (app. names from the CSV instead of inputing it as a parameter to the funtion)
 - Fetched reviews are produced as output - see file "OUTPUTFILEAPPS.txt"
