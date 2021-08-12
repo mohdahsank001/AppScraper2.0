@@ -22,7 +22,7 @@ Scrape reviews for an app:
 from app_store_scraper import AppStore
 from pprint import pprint
 
-minecraft = AppStore(country="nz", app_name="minecraft")
+minecraft = AppStore(country="au", app_name="minecraft")
 minecraft.review(how_many=20)
 
 pprint(minecraft.reviews)
@@ -34,7 +34,7 @@ Scrape reviews for a podcast:
 from app_store_scraper import Podcast
 from pprint import pprint
 
-sysk = Podcast(country="nz", app_name="stuff you should know")
+sysk = Podcast(country="au", app_name="stuff you should know")
 sysk.review(how_many=20)
 
 pprint(sysk.reviews)
@@ -68,7 +68,7 @@ AppStore(country='nz', app_name='minecraft', app_id=479516143)
 ```
 ```pycon
 >>> print(app)
-     Country | nz
+     Country | au
         Name | minecraft
           ID | 479516143
          URL | https://apps.apple.com/nz/app/minecraft/id479516143
