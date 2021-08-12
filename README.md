@@ -71,8 +71,8 @@ AppStore(country='nz', app_name='minecraft', app_id=479516143)
      Country | au
         Name | minecraft
           ID | 479516143
-         URL | https://apps.apple.com/nz/app/minecraft/id479516143
-Review count | 0
+         URL | https://apps.apple.com/au/app/minecraft/id479516143
+Review count | 2k
 ```
 
 Other optional parameters are:
