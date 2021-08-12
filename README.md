@@ -148,7 +148,7 @@ OUTPUTJSON.json - scraped data as output in the JSON file.(Each review is a sepe
 testnames.csv - Input the app names as new fields or rows in the CSV in the first column. 
 ```
 
-OUTPUTJSON dict. format for one review :
+OUTPUTJSON.json dict. format for one review :
 --------------------------------------- 
 ```
 {
