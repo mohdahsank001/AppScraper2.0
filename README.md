@@ -3,11 +3,12 @@ AppScraper 2.0
 --------------------------------------------------------------
 <img src="https://github.com/mhdahsan2000/AppScraper2.0/blob/master/appimage.png" alt="My cool logo"/>
 
-
+```
 img src - blog.appfigures.com
 
 Version info : 
 (latest update : v 2.0 , buildname: RedSparrow) 
+```
 
 # Quickstart
 ------------------
