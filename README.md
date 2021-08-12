@@ -65,7 +65,7 @@ There are two required and one positional parameters:
 Once instantiated, the object can be examined:
 ```pycon
 >>> minecraft
-AppStore(country='nz', app_name='minecraft', app_id=479516143)
+AppStore(country='au', app_name='minecraft', app_id=479516143)
 ```
 ```pycon
 >>> print(app)
