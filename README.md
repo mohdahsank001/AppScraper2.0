@@ -17,7 +17,12 @@ Install:
 ```console
 pip3 install app-store-scraper
 ```
-
+```console
+pip install json
+```
+```console
+pip install pymongo
+```
 Scrape reviews for an app:
 ```python
 from app_store_scraper import AppStore
